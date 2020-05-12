@@ -1,0 +1,27 @@
+@charset "UTF-8";
+h1{
+  color:#c42b23;
+  }
+body{
+  text-align: center;
+  background: #000022;
+    }
+.appframe{
+  background:  #ffffff;
+  width: 420px;
+  margin: auto;
+  padding: 10px;
+  border-radius: 10px;
+         }
+ul{
+  list-style: none;
+  padding: 0;
+  }
+li{
+  border-top: solid 1px #b1daff;
+  padding: 5px;
+  }
+
+li:hover{
+  background: #efefff;
+        }
